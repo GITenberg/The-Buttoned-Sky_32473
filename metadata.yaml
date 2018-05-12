@@ -1,0 +1,31 @@
+_repo: The-Buttoned-Sky_32473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Krepps, Robert W.
+    aliases:
+    - Krepps, Robert Wilson
+    - Reynard, Geoffrey St.
+    - Reynard, Geoff St.
+    - St. Reynard, Geoff
+    birthdate: 1919
+    deathdate: 1980
+    gutenberg_agent_id: '35674'
+    url: http://www.gutenberg.org/2009/agents/35674
+description: ''
+gutenberg_issued: '2010-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Buttoned Sky
+url: http://www.gutenberg.org/ebooks/32473
